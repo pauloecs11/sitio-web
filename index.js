@@ -1,4 +1,4 @@
 function algo(){
-    console.log("");
-    
+    console.log("Buena cabros");
+    console.error("Ups un error");
 }
