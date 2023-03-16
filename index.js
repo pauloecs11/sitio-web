@@ -1,0 +1,4 @@
+function algo(){
+    console.log("");
+    
+}
